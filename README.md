@@ -5,7 +5,8 @@ These solutions are for learning purposes only.
 
 ## About the Book
 - **Title:** Think Python  
-- **Author(s):** Allen Downey 
+- **Author:** Allen Downey
+- **Link to the Book:** https://greenteapress.com/thinkpython2/thinkpython2.pdf
 
 
 ## Disclaimer
